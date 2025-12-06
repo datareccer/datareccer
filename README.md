@@ -8,11 +8,11 @@
 ---
 
 # SMTP-Hammer - Ethical Gmail Credential Auditor 
-# Wesley Middleton | Cybersecurity Enthusiast & Ethical Hacker
+# Wesley Middleton | Penetration & Network Analysis. Custom Applications Tailored for Each Specific Request.
 
 ### Welcome to my GitHub!
 
-I'm a passionate cybersecurity student focused on ethical hacking, penetration testing, and open-source tool development.  
+I'm focused on penetration testing, and open-source tool development.  
 I believe in learning by building, sharing knowledge freely, and always improving my skills and understanding.
 
 ---
@@ -21,7 +21,7 @@ I believe in learning by building, sharing knowledge freely, and always improvin
 - **Name:** Wesley Middleton
 - **GitHub Username:** datareccer
 - **Focus Areas:** Ethical Hacking, Cybersecurity, Python Automation
-- **Current Project:** [SMTP-Hammer](https://github.com/datareccer/SMTP-Hammer) - Ethical Gmail credential auditor
+- **Current Project:** [SMTP-Hammer] (https://github.com/datareccer/SMTP-Hammer) - Ethical Gmail credential auditor
 - **Future Goals:** OSCP certification, building a professional open-source portfolio, working in cybersecurity operations and research.
 
 ---
@@ -50,7 +50,7 @@ I gratefully acknowledge the technical support and advisory assistance of **Open
 > *"Skill is developed through dedication, not through shortcuts."*  
 > — Wesley Middleton
 
----## Hi there 👋
+--## 
 
 <!--
 **datareccer/datareccer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
