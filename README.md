@@ -3,8 +3,6 @@
   <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Use%20Case-Penetration%20Testing-blueviolet?style=for-the-badge"/>
-  https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white
-</p>
 
 
 # SMTP-Hammer - Ethical Gmail Credential Auditor 
