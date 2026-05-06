@@ -43,7 +43,6 @@ I believe in learning by building, sharing knowledge freely, and always improvin
 ---
 
 ## Acknowledgements
-I gratefully acknowledge the technical support and advisory assistance of **OpenAI's ChatGPT** in developing my tools and refining my learning.
 
 ---
 
